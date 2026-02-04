@@ -1,0 +1,29 @@
+# Keil MDK 临时文件
+*.o
+*.d
+*.crf
+*.dep
+*.htm
+*.lnp
+*.lst
+*.map
+*.sct
+*.axf
+*.build_log.htm
+*.htm
+*.i
+*.lnt
+*.sh
+*.pbi
+*.pbd
+*.browse
+*.pfr
+*.proj_bak
+*.__i
+*.uvgui.*
+*.uvguix.*
+JLinkLog.txt
+*.bak
+
+# CubeMX 临时文件
+.mxproject
